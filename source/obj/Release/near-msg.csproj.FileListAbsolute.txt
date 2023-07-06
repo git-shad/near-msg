@@ -1,0 +1,28 @@
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\bin\Release\near-msg.exe.config
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\bin\Release\near-msg.exe
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\bin\Release\near-msg.pdb
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\near-msg.csprojResolveAssemblyReference.cache
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\MainWindow.g.cs
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\App.g.cs
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\near-msg_MarkupCompile.cache
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\near-msg_MarkupCompile.lref
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\MainWindow.baml
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\near-msg.g.resources
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\near_msg.Properties.Resources.resources
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\near-msg.csproj.GenerateResource.Cache
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\near-msg.exe
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Release\near-msg.pdb
+D:\near-msg\source\bin\Release\near-msg.exe.config
+D:\near-msg\source\bin\Release\near-msg.exe
+D:\near-msg\source\bin\Release\near-msg.pdb
+D:\near-msg\source\obj\Release\near-msg.csprojResolveAssemblyReference.cache
+D:\near-msg\source\obj\Release\MainWindow.g.cs
+D:\near-msg\source\obj\Release\App.g.cs
+D:\near-msg\source\obj\Release\near-msg_MarkupCompile.cache
+D:\near-msg\source\obj\Release\near-msg_MarkupCompile.lref
+D:\near-msg\source\obj\Release\MainWindow.baml
+D:\near-msg\source\obj\Release\near-msg.g.resources
+D:\near-msg\source\obj\Release\near_msg.Properties.Resources.resources
+D:\near-msg\source\obj\Release\near-msg.csproj.GenerateResource.Cache
+D:\near-msg\source\obj\Release\near-msg.exe
+D:\near-msg\source\obj\Release\near-msg.pdb

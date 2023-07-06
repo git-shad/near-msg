@@ -1,0 +1,13 @@
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\bin\Debug\near-msg.exe.config
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\bin\Debug\near-msg.exe
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\bin\Debug\near-msg.pdb
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\MainWindow.g.cs
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\App.g.cs
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\near-msg_MarkupCompile.cache
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\near-msg_MarkupCompile.lref
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\MainWindow.baml
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\near-msg.g.resources
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\near_msg.Properties.Resources.resources
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\near-msg.csproj.GenerateResource.Cache
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\near-msg.exe
+C:\Users\Space\Documents\Visual Studio 2012\Projects\near-msg\near-msg\obj\Debug\near-msg.pdb
